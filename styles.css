@@ -1,0 +1,26 @@
+#centerForm{
+	padding: 25% 0% 0% 25%;
+}
+
+h4{
+	margin: 2% 0% 2% 7%;
+}
+
+#centerForm input{
+	width: 50%;
+	float: right;
+	margin-right: 30%;
+}
+
+#centerForm button{
+	margin-left: 40%;
+	margin-top: 2%;
+}
+
+.addCol{
+	margin: 2% 0% 2% 0%;
+}
+
+.addCol input{
+	margin-bottom: 1%;
+}
